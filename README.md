@@ -14,6 +14,9 @@ A managing tool to automate portable data storage devices.
 - Applications start when drive inserted/connected
 - Whole drive encryption
 - Whole drive compression
+- Comparison charts and version control
+- Update merging
+- Multiple Drive sync
 
 
 ## Devices currently supported
