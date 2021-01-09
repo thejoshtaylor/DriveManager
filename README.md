@@ -11,6 +11,7 @@ A managing tool to automate portable data storage devices.
 - Notifications when operations are completed
 - RAID storage
 - Runs in the background
+- Applications start when drive inserted/connected
 - Whole drive encryption
 - Whole drive compression
 
