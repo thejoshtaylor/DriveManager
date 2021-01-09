@@ -1,6 +1,6 @@
 # DriveManager
 
-A portable drive manager of the future.
+A managing tool to automate portable data storage devices.
 
 # Current Features:
 
