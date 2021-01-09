@@ -17,6 +17,7 @@ A managing tool to automate portable data storage devices.
 - Comparison charts and version control
 - Update merging
 - Multiple Drive sync
+- Auto- and Bulk-renaming
 
 
 ## Devices currently supported
